@@ -1,1 +1,1 @@
-Place your test image here, e.g. sample.jpg
+The YOLOv8 Nano model is downloaded automatically by Ultralytics on first execution if it is not already available locally.
